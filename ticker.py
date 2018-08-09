@@ -1,5 +1,5 @@
 # This script pulls JSON ticker data of the 100 Top Cryptocurrencies from Coin Market Cap's Ticker API and displays it in the console.
-# Written by Pavon Dunbar on Aug 9, 2018.
+# Written by Pavon Dunbar using Python v3.7.0 on Aug 9, 2018.
 
 import json
 import requests
